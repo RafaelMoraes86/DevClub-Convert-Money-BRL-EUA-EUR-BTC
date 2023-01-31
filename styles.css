@@ -17,8 +17,9 @@ body {
 }
 
 header {
-    background-color: #1B83E2;
+    background-color: #01060a;
     height: 66px;
+    
 }
 
 h1 {
@@ -77,7 +78,7 @@ input {
 }
 
 button {
-    background: #1B83E2;
+    background: #080808;
     border-radius: 25px;
     width: 327px;
     height: 48px;
@@ -102,7 +103,7 @@ button:active {
 }
 
 section {
-    border: 1px solid #1B83E2;
+    border: 1px solid #27ceaa;
     border-radius: 4px
 }
 
@@ -120,7 +121,7 @@ section {
 }
 
 .currency-value {
-    color: #1B83E2;
+    color: #520616;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
