@@ -7,19 +7,24 @@
 
 body {
     background-color: #E5E5E5;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
 }
 
 .container {
     width: 375px;
     background-color: #f4f4f4;
-    margin: 0 auto;
-    margin-top: 100px;
+  
 }
 
 header {
     background-color: #01060a;
     height: 66px;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
@@ -28,8 +33,7 @@ h1 {
     font-size: 24px;
     line-height: 18px;
     color: #F4F4F4;
-    text-align: center;
-    padding-top: 25px;
+  
 }
 
 main {
@@ -104,12 +108,21 @@ button:active {
 
 section {
     border: 1px solid #1be2b7;
-    border-radius: 4px
+    border-radius: 4px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
 }
 
 .currency-container {
-    text-align: center;
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
 }
 
 .currency-name {
@@ -128,7 +141,4 @@ section {
     line-height: 18px;
 }
 
-.arrow-img {
-    margin: 15px auto;
-    display: block;
-}
+
