@@ -5,6 +5,13 @@
 <h2>Como usar</h2>
 <p>Basta acessar o link https://rafaelmoraes86.github.io/DevClub-Convert-Money-BRL-EUA-EUR-BTC/ e seguir as instruções para inserir o valor em reais (BRL) que deseja converter e a moeda de destino (USD, EUR ou BTC).</p>
 
+<h2>Tecnologias utilizadas</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>API Rest</li>
+
+
 <h2>API</h2>
 <p>Este projeto usa a <i>API Open Exchange Rates</i> para obter as taxas de câmbio em tempo real.</p>
 
@@ -14,4 +21,6 @@
 <h2>Licença</h2>
 <p>Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
 
+<h2>Prévia</h2>
+<img src="https://media0.giphy.com/media/utURLocgB9pcpHqtyB/giphy.gif">
 </div>
